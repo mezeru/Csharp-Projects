@@ -1,0 +1,10 @@
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\bin\Debug\MatchingForms.exe.config
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\bin\Debug\MatchingForms.exe
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\bin\Debug\MatchingForms.pdb
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.csprojAssemblyReference.cache
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.Form1.resources
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.Properties.Resources.resources
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.csproj.GenerateResource.cache
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.csproj.CoreCompileInputs.cache
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.exe
+C:\Users\Mezeru\source\repos\MatchingForms\MatchingForms\obj\Debug\MatchingForms.pdb
