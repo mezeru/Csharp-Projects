@@ -1,0 +1,15 @@
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\bin\Debug\mp3 Player.exe.config
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\bin\Debug\mp3 Player.exe
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\bin\Debug\mp3 Player.pdb
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3 Player.csprojAssemblyReference.cache
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3 Player.csproj.ResolveComReference.cache
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3_Player.Form1.resources
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3_Player.Properties.Resources.resources
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3 Player.csproj.GenerateResource.cache
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3 Player.csproj.CoreCompileInputs.cache
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3 Player.exe
+C:\Users\Mezeru\source\repos\mp3 Player\mp3 Player\obj\Debug\mp3 Player.pdb
