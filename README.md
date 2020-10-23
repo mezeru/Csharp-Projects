@@ -1,3 +1,3 @@
 # Csharp-Projects
 
-This is a repo for Destop Appliations made with C#
+This is a repo for Destop Applications made with C#
